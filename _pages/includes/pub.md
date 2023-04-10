@@ -18,9 +18,6 @@
 </div>
 
 
-- [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, Jinglin Liu, Zhenhui Ye, **NeurIPS 2022**, [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
-
-
 ## 🧬 AI+Science
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APMC 2020</div><img src='images/waveguide-pinn.png' alt="sym" width="100%"></div></div>
@@ -36,14 +33,19 @@
 </div>
 </div>
 
-- [Capacity Estimation of MIMO Systems via Support Vector Regression](https://ieeexplore.ieee.org/abstract/document/9038838), **Xiaolin Hu**, Nicholas E. Buri, **APMC 2019**
-- [Multiple Signal DoA Estimation with Unknown Electromagnetic Coupling using Gaussian Process](https://ieeexplore.ieee.org/document/9506234), Qifeng Wang, Nicholas E. Buris, **Xiaolin Hu**, **APMC 2020**
+- [Capacity Estimation of MIMO Systems via Support Vector Regression](https://ieeexplore.ieee.org/abstract/document/9038838)
+  **Xiaolin Hu**, Nicholas E. Buri, **APMC 2019** <span style="color:red">(Oral)</span>
+  
+- [Multiple Signal DoA Estimation with Unknown Electromagnetic Coupling using Gaussian Process](https://ieeexplore.ieee.org/document/9506234)
+  Qifeng Wang, Nicholas E. Buris, **Xiaolin Hu**, **APMC 2020**
 
 ## 🧑‍🎨 Generative Model
-- [3D Grid Transformation Network For Point Cloud Completion](https://ieeexplore.ieee.org/document/9506234), Xiaobao Deng, **Xiaolin Hu**, Nicholas E. Buris, Ping An, Yilei Chen, **ICIP 2021**
+- [3D Grid Transformation Network For Point Cloud Completion](https://ieeexplore.ieee.org/document/9506234)
+  Xiaobao Deng, **Xiaolin Hu**, Nicholas E. Buris, Ping An, Yilei Chen, **ICIP 2021**
 
 ## Others
-- [Wavelength-tunable Q-switched fiber laser based on a 45 tilted fiber grating](https://www.oejournal.org/article/doi/10.12086/oee.2018.170741?viewType=HTML), **Xiaolin Hu**, Zhijun Yan, Qianqian Huang, Chuanhang Zou, Tianxing Wang, Chengbo Mou, **Opto-Electronic Engineering 2018**
+- [Wavelength-tunable Q-switched fiber laser based on a 45 tilted fiber grating](https://www.oejournal.org/article/doi/10.12086/oee.2018.170741?viewType=HTML)
+  **Xiaolin Hu**, Zhijun Yan, Qianqian Huang, Chuanhang Zou, Tianxing Wang, Chengbo Mou, **Opto-Electronic Engineering 2018**
 
 
 
