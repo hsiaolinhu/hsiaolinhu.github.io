@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaolin Hu (胡啸林)"
-description              : "Ph.D. Candidate in Gaoling School of Artificial Intelligence. Graduating from Shanghai University. Focusing on Deep learning theory, dynamic system and AI4Science."
+description              : "Ph.D. Candidate in GSAI. Focusing on Deep learning theory and dynamic system."
 repository               : "hsiaolinhu/hsiaolinhu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Xiaolin Hu"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : "xiaolin-hu-21429019b"
+  dblp             : #"https://dblp.org/pid/75/6568-6.html"
+  orcid            : #"https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
