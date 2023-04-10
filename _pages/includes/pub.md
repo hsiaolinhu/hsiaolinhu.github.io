@@ -43,7 +43,7 @@
 - [3D Grid Transformation Network For Point Cloud Completion](https://ieeexplore.ieee.org/document/9506234)
   Xiaobao Deng, **Xiaolin Hu**, Nicholas E. Buris, Ping An, Yilei Chen, **ICIP 2021**
 
-## Others
+## 🚍 Others
 - [Wavelength-tunable Q-switched fiber laser based on a 45 tilted fiber grating](https://www.oejournal.org/article/doi/10.12086/oee.2018.170741?viewType=HTML)
   **Xiaolin Hu**, Zhijun Yan, Qianqian Huang, Chuanhang Zou, Tianxing Wang, Chengbo Mou, **Opto-Electronic Engineering 2018**
 
