@@ -3,7 +3,7 @@
 ## 🎙 Generalization
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/fl-gen.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/fl-gen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalization Bounds for Federated Learning: Fast Rates, Unparticipating Clients and Unbounded Losses](https://openreview.net/forum?id=-EHqoysUYLx) \\
@@ -12,7 +12,7 @@
 [**Video**](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=565.5) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
   
 - This paper provides a theoretical analysis of generalization error of federated learning.  
-- We assume that the heterogeneous clients are sampled from a meta-distribution. In this framework, we characterize the generalization error not only for clients participating in the training but also for unparticipating clients. 
+- We assume that the heterogeneous clients are sampled from a meta-distribution. In this framework, we characterize the generalization error for unparticipating clients. 
 - We further derive convergence bounds for heavy-tail losses.
 </div>
 </div>
