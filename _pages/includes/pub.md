@@ -24,7 +24,7 @@
 <div class='paper-box-text' markdown="1">
 
 [A Deep Learning Framework for Solving Rectangular Waveguide Problems](https://ieeexplore.ieee.org/document/9331654) \\
-**Xiaolin Hu**, Nicholas E. Buri, **APMC 2020** <span style="color:red">(Oral)</span> \| [![](https://img.shields.io/github/stars/xiaulinhu/pinn-pytorch?social&label=Code+Stars)](https://github.com/xiaulinhu/pinn-pytorch)
+**Xiaolin Hu**, Nicholas E. Buri, **APMC 2020** <span style="color:red">(Oral)</span> \| [![](https://img.shields.io/github/stars/xiaulinhu/pinn-pytorch?style=social&label=Code+Stars)](https://github.com/xiaulinhu/pinn-pytorch)
 
 [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
   - We employ Physics Informed Neural Networks (PINNs) to solve rectangular waveguide problems.
@@ -33,14 +33,14 @@
 </div>
 </div>
 
-- [Capacity Estimation of MIMO Systems via Support Vector Regression](https://ieeexplore.ieee.org/abstract/document/9038838) \\
+- ``APMC 2019`` [Capacity Estimation of MIMO Systems via Support Vector Regression](https://ieeexplore.ieee.org/abstract/document/9038838) \\
   **Xiaolin Hu**, Nicholas E. Buri, **APMC 2019** <span style="color:red">(Oral)</span>
   
-- [Multiple Signal DoA Estimation with Unknown Electromagnetic Coupling using Gaussian Process](https://ieeexplore.ieee.org/document/9506234) \\
+- ``APMC 2020`` [Multiple Signal DoA Estimation with Unknown Electromagnetic Coupling using Gaussian Process](https://ieeexplore.ieee.org/document/9506234) \\
   Qifeng Wang, Nicholas E. Buris, **Xiaolin Hu**, **APMC 2020**
 
 ## 🧑‍🎨 Generative Model
-- [3D Grid Transformation Network For Point Cloud Completion](https://ieeexplore.ieee.org/document/9506234) \\
+- ``ICIP 2021`` [3D Grid Transformation Network For Point Cloud Completion](https://ieeexplore.ieee.org/document/9506234) \\
   Xiaobao Deng, **Xiaolin Hu**, Nicholas E. Buris, Ping An, Yilei Chen, **ICIP 2021**
 
 ## 🚍 Others
