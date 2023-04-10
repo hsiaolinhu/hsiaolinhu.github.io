@@ -36,14 +36,14 @@
 </div>
 </div>
 
-
-
-## 🎼 Music Generation 
-- [SongMASS: Automatic Song Writing with Pre-training and Alignment Constraint](https://arxiv.org/abs/2012.05168), Zhonghao Sheng, Kaitao Song, Xu Tan, **Yi Ren**, Wei Ye, Shikun Zhang, Tao Qin, **AAAI 2021**
-- [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu, **ACM-MM 2020** <span style="color:red">(Oral)</span> \| [**Project**](https://speechresearch.github.io/popmag/)
+- [Capacity Estimation of MIMO Systems via Support Vector Regression](https://ieeexplore.ieee.org/abstract/document/9038838), **Xiaolin Hu**, Nicholas E. Buri, **APMC 2019**
+- [Multiple Signal DoA Estimation with Unknown Electromagnetic Coupling using Gaussian Process](https://ieeexplore.ieee.org/document/9506234), Qifeng Wang, Nicholas E. Buris, **Xiaolin Hu**, **APMC 2020**
 
 ## 🧑‍🎨 Generative Model
-- [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao, **ICLR 2022** \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
+- [3D Grid Transformation Network For Point Cloud Completion](https://ieeexplore.ieee.org/document/9506234), Xiaobao Deng, **Xiaolin Hu**, Nicholas E. Buris, Ping An, Yilei Chen, **ICIP 2021**
 
 ## Others
-- [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**, **ACM-MM 2022**
+- [Wavelength-tunable Q-switched fiber laser based on a 45 tilted fiber grating](https://www.oejournal.org/article/doi/10.12086/oee.2018.170741?viewType=HTML), **Xiaolin Hu**, Zhijun Yan, Qianqian Huang, Chuanhang Zou, Tianxing Wang, Chengbo Mou, **Opto-Electronic Engineering 2018**
+
+
+
