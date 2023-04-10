@@ -7,6 +7,7 @@ I'm Xiaolin Hu, pursuing Ph.D. at [Gaoling School of Artificial Intelligence](ht
 Toward my long-term vision of building trustworthy and effective models for the real-world application with deep understanding and theoritical guarantee, my research interests are (my CV):
 
 (1) Dynamic system for AI: understanding and empowering machine learning with dynamic system tools such as stochastic differential equations(SDEs), information theory and control theory.
+
 (2) AI for Dynamic system: Integrating machine learning with statistical mechanics-based modeling. Application in cancer evolution, macroeconomics, system engineering, etc.
 
 I won the [Shanghai University President Scholarship](https://news.shu.edu.cn/info/1021/47992.htm) (The highest honor among the scholarships at Shanghai University). 
