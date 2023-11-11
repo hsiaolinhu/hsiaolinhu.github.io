@@ -1,4 +1,5 @@
 # 🔥 News
+- *2023.10*: Our work on [LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts](https://arxiv.org/abs/2310.20501) is out! 
 - *2023.03*: Prof. Yong Liu presents our paper on generalization error of gederated leanring at AI TIME [[Video](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=231.7)].
 - *2023.03*: I attend the [2023 Workshop on Machine Learning Theory and Foundations](https://iiis.tsinghua.edu.cn/show-10351-1.html), Microsoft Research Asia.
 - *2023.03*: I Write a blog on statistical learning theory to AI4Science Community. See in [AI4Science101 blogs](https://ai4science101.github.io/blogs/statistical_learning_theory/).
