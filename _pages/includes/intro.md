@@ -4,11 +4,11 @@ I'm Xiaolin Hu, pursuing Ph.D. at [Gaoling School of Artificial Intelligence](ht
 
 <!-- I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院) with a bachelor's degree and from the Department of Computer Science and Technology, Zhejiang University (浙江大学计算机科学与技术学院) with a master's degree, advised by [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/), [Tao Qin (秦涛)](https://www.microsoft.com/en-us/research/people/taoqin/) and [Tie-yan Liu (刘铁岩)](https://www.microsoft.com/en-us/research/people/tyliu/) from [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/) <img src='./images/microsoft_logo.svg' style="width: 4em;"> closely.  -->
 
-Toward my long-term vision of building trustworthy and effective models for the real-world application with deep understanding and theoritical guarantee, my research interests are:
+I am currently bridging large language models(LLMs) and the next-generation of intelligent personal computing platforms. Toward my vision of building a human-centered application ecosystem based on the fundation models, I am broadly interested in the following topics:
 
-(1) Dynamic system for AI: understanding and empowering machine learning with dynamic system tools such as stochastic differential equations(SDEs), information theory and control theory.
+(1) Science driven tuning: to pursue scientific principles behind optimization of LLMs and use them to guide human-centerd personal model development.
 
-(2) AI for Dynamic system: Integrating machine learning with statistical mechanics-based modeling. Application in cancer evolution, macroeconomics, system engineering, etc.
+(2) LLMs for Edge Devices: to study efficient method for deploying LLMs on edge devices and the communication challenges arising from large-scale agents.
 
 I won the [Shanghai University President Scholarship](https://news.shu.edu.cn/info/1021/47992.htm) (The highest honor among the scholarships at Shanghai University). 
 
