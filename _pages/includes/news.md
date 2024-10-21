@@ -2,8 +2,8 @@
 - *2024.9*: One paper is accepted by NeurIPS 2025! [Enhancing In-Context Learning with just SVD-Based Pruning: A Theoretical Perspective](https://arxiv.org/abs/2406.03768) 
 - *2024.6*: Xiaomi Young Scholar Research Program (PI: Yong Liu) received approval, focusing on fine-tuning edge LLMs for personalized services. 
 - *2024.5*: One Paper is accepted by KDD 2025! [LLMs may Dominate Information Access](https://arxiv.org/abs/2310.20501) 
-- *2023.12*: Started internship at Xiaomi AI Lab, focusing on efficient fine-tuning of edge LLMs.
-- *2023.10*: Our work on [LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts](https://arxiv.org/abs/2310.20501) is out!
+- *2023.12*: Started internship at Xiaomi AI Lab, focusing on efficient fine-tuning of edge LLMs. 
+- *2023.10*: Our work on [LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts](https://arxiv.org/abs/2310.20501) is out! 
 - *2023.06*: Excited to be awarded as Third Prize in the [MindSpore](https://www.mindspore.cn/) Large Language Model Innovation Training Camp. 
 - *2023.03*: Prof. Yong Liu presents our paper on generalization error of gederated leanring at AI TIME [[Video](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=231.7)]. 
 - *2023.03*: I attend the [2023 Workshop on Machine Learning Theory and Foundations](https://iiis.tsinghua.edu.cn/show-10351-1.html), Microsoft Research Asia. 
