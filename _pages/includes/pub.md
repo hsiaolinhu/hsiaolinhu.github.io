@@ -1,6 +1,20 @@
 
 # 📝 Publications 
-## 🎙 Generalization
+## 🎙 Federated Learning Generalization
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/zo-dsgd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Stability and Generalization of Zeroth-Order Decentralized Stochastic Gradient Descent with Changing Topology] \\
+**Xiaolin Hu**, Zixuan Gong, Gengze Xu, Wei Liu, Jian Luan, Bin Wang, Yong Liu
+
+<!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
+  
+- This paper provides the first generalization analysis of ZO-DSGD with changing topology.  
+- The obtained generalization bounds align with SGD in (strongly) convex cases and with DSGD in non-convex cases.
+- The results reflect the impact of client count, sample size, and topology on generalization performance.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/fl-gen.png' alt="sym" width="100%"></div></div>
@@ -9,7 +23,7 @@
 [Generalization Bounds for Federated Learning: Fast Rates, Unparticipating Clients and Unbounded Losses](https://openreview.net/forum?id=-EHqoysUYLx) \\
 **Xiaolin Hu**, Shaojie Li, Yong Liu
 
-[**Video**](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=565.5) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Video**](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=565.5) <strong><span class='show_paper_citations' data='6CSzbVEAAAAJ:KlAtU1dfN6UC'></span></strong>
   
 - This paper provides a theoretical analysis of generalization error of federated learning.  
 - We assume that the heterogeneous clients are sampled from a meta-distribution. In this framework, we characterize the generalization error for unparticipating clients. 
@@ -26,12 +40,27 @@
 [A Deep Learning Framework for Solving Rectangular Waveguide Problems](https://ieeexplore.ieee.org/document/9331654) \\
 **Xiaolin Hu**, Nicholas E. Buri, **APMC 2020** <span style="color:red">(Oral)</span> \| [![](https://img.shields.io/github/stars/xiaulinhu/pinn-pytorch?style=social&label=Code+Stars)](https://github.com/xiaulinhu/pinn-pytorch)
 
-[**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
+[**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='6CSzbVEAAAAJ:0EnyYjriUFMC'></span></strong>
   - We employ Physics Informed Neural Networks (PINNs) to solve rectangular waveguide problems.
   - We successfully apply PINNs to the task of solving electric and magnetic fields, which can be described by partial differential equations (PDEs).
   - We also show the applicability of the framework for predicting the unknown parameters such as wavenumber.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/dangan.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[人工智能时代下档案工作的变革:机遇、挑战与应对策略] \\
+陈晓婷，徐拥军，胡啸林
+
+<!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
+  
+- 与中国人民大学信息资源管理学院合作，讨论人工智能时代下档案工作变革的机遇,挑战和应对策略。  
+- 人工智能在档案工作中具有诸多应用类型与场景,能有效提升档案各个业务环节的自动化和智能化水平。
+- 人工智能也存在对档案管理的安全风险,从而给档案工作者带来新的挑战，有必要通过风险规制避免风险。
+</div>
+</div>
+
 
 - ``APMC 2019`` [Capacity Estimation of MIMO Systems via Support Vector Regression](https://ieeexplore.ieee.org/abstract/document/9038838) \\
   **Xiaolin Hu**, Nicholas E. Buri, **APMC 2019** <span style="color:red">(Oral)</span>
