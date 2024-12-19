@@ -23,7 +23,9 @@
 [Generalization Bounds for Federated Learning: Fast Rates, Unparticipating Clients and Unbounded Losses](https://openreview.net/forum?id=-EHqoysUYLx) \\
 **Xiaolin Hu**, Shaojie Li, Yong Liu
 
-[**Video**](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=565.5) <strong><span class='show_paper_citations' data='6CSzbVEAAAAJ:KlAtU1dfN6UC'></span></strong>
+[**Video**](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=565.5) <strong><span class='show_paper_citations' ></span></strong>
+
+<!-- [**Video**](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=565.5) <strong><span class='show_paper_citations' data='6CSzbVEAAAAJ:KlAtU1dfN6UC'></span></strong> -->
   
 - This paper provides a theoretical analysis of generalization error of federated learning.  
 - We assume that the heterogeneous clients are sampled from a meta-distribution. In this framework, we characterize the generalization error for unparticipating clients. 
@@ -31,6 +33,16 @@
 </div>
 </div>
 
+## 🧑‍🎨 Large Language Models
+
+- ``NeurIPS 2025`` [Enhancing In-Context Learning with just SVD-Based Pruning: A Theoretical Perspective](https://arxiv.org/abs/2406.03768) \\
+  Xinhao Yao, **Xiaolin Hu**, Shenzhi Yang, Yong Liu
+
+- ``COLING 2025`` [PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning](https://arxiv.org/abs/2409.16722) \\
+  Qibin Wang, **Xiaolin Hu**, Weikai Xu, Wei Liu, Jian Luan, Bin Wang
+
+- ``KDD 2024`` [Neural Retrievers are Biased Towards LLM-Generated Content](https://arxiv.org/abs/2310.20501) \\
+  Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, **Xiaolin Hu**, Yong Liu, Xiao Zhang, Gang Wang, Jun Xu
 
 ## 🧬 AI+Science
 
@@ -40,7 +52,7 @@
 [A Deep Learning Framework for Solving Rectangular Waveguide Problems](https://ieeexplore.ieee.org/document/9331654) \\
 **Xiaolin Hu**, Nicholas E. Buri, **APMC 2020** <span style="color:red">(Oral)</span> \| [![](https://img.shields.io/github/stars/xiaulinhu/pinn-pytorch?style=social&label=Code+Stars)](https://github.com/xiaulinhu/pinn-pytorch)
 
-[**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='6CSzbVEAAAAJ:0EnyYjriUFMC'></span></strong>
+[**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' ></span></strong>
   - We employ Physics Informed Neural Networks (PINNs) to solve rectangular waveguide problems.
   - We successfully apply PINNs to the task of solving electric and magnetic fields, which can be described by partial differential equations (PDEs).
   - We also show the applicability of the framework for predicting the unknown parameters such as wavenumber.
@@ -63,21 +75,16 @@ Xiaoting Chen(陈晓婷), Yongjun Xu(徐拥军), Xiaolin Hu(胡啸林)
 </div>
 
 
-
-Transformation of Archival Work in the Era of Artificial Intelligence: Opportunities, Challenges, and Strategies
-Xiaoting Chen, Yongjun Xu, Xiaolin Hu
-
 - ``APMC 2019`` [Capacity Estimation of MIMO Systems via Support Vector Regression](https://ieeexplore.ieee.org/abstract/document/9038838) \\
   **Xiaolin Hu**, Nicholas E. Buri, **APMC 2019** <span style="color:red">(Oral)</span>
   
 - ``APMC 2020`` [Multiple Signal DoA Estimation with Unknown Electromagnetic Coupling using Gaussian Process](https://ieeexplore.ieee.org/document/9506234) \\
   Qifeng Wang, Nicholas E. Buris, **Xiaolin Hu**, **APMC 2020**
 
-## 🧑‍🎨 Generative Model
-- ``ICIP 2021`` [3D Grid Transformation Network For Point Cloud Completion](https://ieeexplore.ieee.org/document/9506234) \\
-  Xiaobao Deng, **Xiaolin Hu**, Nicholas E. Buris, Ping An, Yilei Chen, **ICIP 2021**
 
 ## 🚍 Others
+- ``ICIP 2021`` [3D Grid Transformation Network For Point Cloud Completion](https://ieeexplore.ieee.org/document/9506234) \\
+  Xiaobao Deng, **Xiaolin Hu**, Nicholas E. Buris, Ping An, Yilei Chen, **ICIP 2021**
 - [Wavelength-tunable Q-switched fiber laser based on a 45 tilted fiber grating](https://www.oejournal.org/article/doi/10.12086/oee.2018.170741?viewType=HTML) \\
   **Xiaolin Hu**, Zhijun Yan, Qianqian Huang, Chuanhang Zou, Tianxing Wang, Chengbo Mou, **Opto-Electronic Engineering 2018**
 
