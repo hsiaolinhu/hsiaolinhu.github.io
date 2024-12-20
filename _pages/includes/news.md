@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.12*: One paper is accepted by AAAI 2025! [Stability and Generalization of Zeroth-Order Decentralized Stochastic Gradient Descent with Changing Topology]()
 - *2024.11*: One paper is accepted by COLING 2025! [PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning](https://arxiv.org/abs/2409.16722) 
 - *2024.9*: One paper is accepted by NeurIPS 2025! [Enhancing In-Context Learning with just SVD-Based Pruning: A Theoretical Perspective](https://arxiv.org/abs/2406.03768) 
 - *2024.6*: Xiaomi Young Scholar Research Program (PI: Yong Liu) received approval, focusing on fine-tuning edge LLMs for personalized services. 
