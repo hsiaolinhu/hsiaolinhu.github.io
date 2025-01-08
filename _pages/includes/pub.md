@@ -27,22 +27,56 @@
 
 <!-- [**Video**](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=565.5) <strong><span class='show_paper_citations' data='6CSzbVEAAAAJ:KlAtU1dfN6UC'></span></strong> -->
   
-- This paper provides a theoretical analysis of generalization error of federated learning.  
-- We assume that the heterogeneous clients are sampled from a meta-distribution. In this framework, we characterize the generalization error for unparticipating clients. 
-- We further derive convergence bounds for heavy-tail losses.
+- We present a theoretical analysis of the generalization error for non-participating clients in federated learning.
+- The obtained generalization bounds in high probability form capture the performance of a single trial, rather than the average over multiple trials. 
+- We derive generalization bounds for heavy-tail losses, applicable to federated learning with unbounded losses, such as cross-entropy. 
 </div>
 </div>
 
 ## 🧑‍🎨 Large Language Models
 
-- ``NeurIPS 2025`` [Enhancing In-Context Learning with just SVD-Based Pruning: A Theoretical Perspective](https://arxiv.org/abs/2406.03768) \\
-  Xinhao Yao, **Xiaolin Hu**, Shenzhi Yang, Yong Liu
 
-- ``COLING 2025`` [PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning](https://arxiv.org/abs/2409.16722) \\
-  Qibin Wang, **Xiaolin Hu**, Weikai Xu, Wei Liu, Jian Luan, Bin Wang
 
-- ``KDD 2024`` [Neural Retrievers are Biased Towards LLM-Generated Content](https://arxiv.org/abs/2310.20501) \\
-  Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, **Xiaolin Hu**, Yong Liu, Xiao Zhang, Gang Wang, Jun Xu
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/icl-svd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing In-Context Learning with just SVD-Based Pruning: A Theoretical Perspective](https://arxiv.org/abs/2406.03768) \\
+Xinhao Yao, **Xiaolin Hu**, Shenzhi Yang, Yong Liu
+
+<!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
+  
+- We show an exciting phenomenon that SVD-based weight pruning can enhance In-Context Learning (ICL) performance. 
+- we conduct theoretical analysis by presenting the implicit gradient descent (GD) of ICL and giving generalization bounds of ICL. 
+- We further propose a simple, derivative-free algorithm to enhance ICL. Experiments demonstrate its effectiveness.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/pmss.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning](https://arxiv.org/abs/2409.16722) \\
+Qibin Wang, **Xiaolin Hu**, Weikai Xu, Wei Liu, Jian Luan, Bin Wang
+
+<!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
+
+- We propose PMSS, enabling high-rank updates at low costs by selecting skeletons from pre-trained weights.
+- PMSS overcomes LoRA’s low-rank limitations and optimizes initialization to utilize semantic and linguistic information.
+- Experiments show PMSS outperforms LoRA and excels in tasks like DROP and math reasoning with fewer trainable parameters.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/ir-bias.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Neural Retrievers are Biased Towards LLM-Generated Content](https://arxiv.org/abs/2310.20501) \\
+Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, **Xiaolin Hu**, Yong Liu, Xiao Zhang, Gang Wang, Jun Xu
+
+<!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
+
+- We explores how LLM-generated texts influence IR systems, revealing a source bias where neural models favor LLM-generated documents.
+- We explain this bias using information theory, showing it extends from first-stage retrievers to second-stage re-rankers due to the focused semantics of LLM-generated content.
+</div>
+</div>
 
 ## 🧬 AI+Science
 
