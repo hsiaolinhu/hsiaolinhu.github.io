@@ -65,7 +65,7 @@ Qibin Wang, **Xiaolin Hu**, Weikai Xu, Wei Liu, Jian Luan, Bin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/ir-bias.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/ir-bias.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neural Retrievers are Biased Towards LLM-Generated Content](https://arxiv.org/abs/2310.20501) \\
@@ -74,7 +74,7 @@ Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, **Xiaolin Hu**, Yong Liu, Xiao Zh
 <!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
 
 - We explores how LLM-generated texts influence IR systems, revealing a source bias where neural models favor LLM-generated documents.
-- We explain this bias using information theory, showing it extends from first-stage retrievers to second-stage re-rankers due to the focused semantics of LLM-generated content.
+- We use information theory to explain this bias, showing it arises from the focused semantics of LLM-generated content.
 </div>
 </div>
 
