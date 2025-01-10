@@ -36,7 +36,6 @@
 ## 🧑‍🎨 Large Language Models
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/icl-svd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,19 +93,19 @@ Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, **Xiaolin Hu**, Yong Liu, Xiao Zh
 </div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">档案学研究</div><img src='images/dangan.jpeg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
-[Transformation of Archival Work in the AI Era: Opportunities, Challenges, and Strategies]() \\
-Xiaoting Chen(陈晓婷), Yongjun Xu(徐拥军), Xiaolin Hu(胡啸林)
+<!-- [Transformation of Archival Work in the AI Era: Opportunities, Challenges, and Strategies]() \\
+Xiaoting Chen(陈晓婷), Yongjun Xu(徐拥军), Xiaolin Hu(胡啸林) -->
 
-<!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
+<!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>  -->
   
 <!-- - In collaboration with the School of Information Resource Management at RUC, this study explores the transformation of archival work in the era of AI.
 - AI offers diverse applications and scenarios in archival work, significantly enhancing the automation and intelligence across various operational stages.
-- AI also poses security risks to archival management, introducing new challenges for archival professionals. It is essential to implement risk regulation measures.
+- AI also poses security risks to archival management, introducing new challenges for archival professionals. It is essential to implement risk regulation measures. -->
 
-</div>
-</div> --> -->
+<!-- </div>
+</div> -->
 
 
 - ``APMC 2019`` [Capacity Estimation of MIMO Systems via Support Vector Regression](https://ieeexplore.ieee.org/abstract/document/9038838) \\
