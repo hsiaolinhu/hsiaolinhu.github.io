@@ -6,7 +6,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Stability and Generalization of Zeroth-Order Decentralized Stochastic Gradient Descent with Changing Topology]() \\
-**Xiaolin Hu**, Zixuan Gong, Gengze Xu, Wei Liu, Jian Luan, Bin Wang, Yong Liu
+**Xiaolin Hu**, Zixuan Gong, Gengze Xu, Wei Liu, Jian Luan, Bin Wang, Yong Liu <span style="color:red">(Oral)</span>
 
 <!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
   
@@ -21,7 +21,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Generalization Bounds for Federated Learning: Fast Rates, Unparticipating Clients and Unbounded Losses](https://openreview.net/forum?id=-EHqoysUYLx) \\
-**Xiaolin Hu**, Shaojie Li, Yong Liu
+**Xiaolin Hu**, Shaojie Li, Yong Liu 
 
 [**Video**](https://www.bilibili.com/video/BV1Wk4y1i7Xv?t=565.5) <strong><span class='show_paper_citations' ></span></strong>
 
@@ -35,6 +35,35 @@
 
 ## 🧑‍🎨 Large Language Models
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/icl-gen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Auto-Regressive Next-Token Prediction: In-context Learning Emerges from Generalization](https://openreview.net/forum?id=gK1rl98VRp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions) \\
+Zixuan Gong\*, **Xiaolin Hu\***, Huayi Tang, Yong Liu (\* Equal contribution)
+
+<!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
+
+- We explore the emergence of in-context learning (ICL) capabilities in auto-regressive next-token prediction models.
+- To bridge the pre-training and ICL phases, we introduce a two-level expectation over data and topic distributions, providing PAC-Bayes generalization bounds to support our analysis.
+- Additionally, we model the training process using Stochastic Differential Equations (SDEs), demonstrating that ICL arises from the exceptional generalization across sequences and topics.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/adept.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ADePT: Adaptive Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning](https://arxiv.org/pdf/2501.03291) \\
+Pengwei Tang, **Xiaolin Hu**, Yong Liu
+
+<!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
+
+- We propose Adaptive Decomposed Prompt Tuning (ADePT), which can produce unique token embedding offset for each token.
+- ADePT addresses the limitations of DePT, enabling better optimization and generalization without increasing inference time or parameters. 
+- Experiments on 23 NLP tasks and 4 PLMs show ADePT outperforms leading PEFT methods and even full fine-tuning in some cases.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/icl-svd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
