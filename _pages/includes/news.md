@@ -2,9 +2,9 @@
 - *2024.12*: Two papers are accepted by ICLR 2025! 
 - *2024.12*: One paper is accepted by AAAI 2025! [Stability and Generalization of Zeroth-Order Decentralized SGD with Changing Topology]().
 - *2024.11*: One paper is accepted by COLING 2025! [PMSS: Pretrained Matrices Skeleton Selection for LLM Fine-tuning](https://arxiv.org/abs/2409.16722).
-- *2024.9*: One paper is accepted by NeurIPS 2025! [Enhancing In-Context Learning with just SVD-Based Pruning: A Theoretical Perspective](https://arxiv.org/abs/2406.03768).
+- *2024.9*: One paper is accepted by NeurIPS 2024! [Enhancing In-Context Learning with just SVD-Based Pruning: A Theoretical Perspective](https://arxiv.org/abs/2406.03768).
 - *2024.6*: Xiaomi Young Scholar Research Program (PI: Yong Liu) received approval, focusing on fine-tuning edge LLMs for personalized services. 
-- *2024.5*: One Paper is accepted by KDD 2025! [LLMs may Dominate Information Access](https://arxiv.org/abs/2310.20501).
+- *2024.5*: One Paper is accepted by KDD 2024! [LLMs may Dominate Information Access](https://arxiv.org/abs/2310.20501).
 - *2023.12*: Started internship at Xiaomi AI Lab, focusing on efficient fine-tuning of edge LLMs. 
 
 <!-- - *2023.10*: Our work on [LLMs may Dominate Information Access: Neural Retrievers are Biased Towards LLM-Generated Texts](https://arxiv.org/abs/2310.20501) is out! 
