@@ -39,7 +39,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/icl-gen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Auto-Regressive Next-Token Prediction: In-context Learning Emerges from Generalization](https://openreview.net/forum?id=gK1rl98VRp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions) \\
+[Towards Auto-Regressive Next-Token Prediction: In-context Learning Emerges from Generalization](https://openreview.net/forum?id=gK1rl98VRp) \\
 Zixuan Gong\*, **Xiaolin Hu\***, Huayi Tang, Yong Liu (\* Equal contribution)
 
 <!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
