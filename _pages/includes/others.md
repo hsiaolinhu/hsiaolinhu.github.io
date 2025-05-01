@@ -11,4 +11,5 @@
 - *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
 
 # 💻 Internships
+- *2023.11 - 2025.04*, [Xiaomi AI Lab, Large Language Model Team](https://www.mi.com/global/about/founder/), Beijing.
 - *2020.10 - 2021.02*, [OPPO Research Institute, Intelligent Communication Lab](https://www.oppo.com/en/proposal/), Shanghai.
