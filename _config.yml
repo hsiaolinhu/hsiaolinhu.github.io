@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaolin Hu (胡啸林)"
-description              : "Ph.D. Candidate in GSAI. Focusing on deep learning theory and Edge LLMs."
+description              : "Assistant Professor Xiamen University. Focusing on theory and algorithms for Edge LLMs."
 repository               : "hsiaolinhu/hsiaolinhu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Xiaolin Hu (胡啸林)"
   avatar           : "images/xiaolin_profile.jpg"
-  bio              : "Gaoling School of Artificial Intelligence"
-  location         : "Beijing"
+  bio              : "School of Informatics, Xiamen University"
+  location         : "Xiamen"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6CSzbVEAAAAJ&hl"
