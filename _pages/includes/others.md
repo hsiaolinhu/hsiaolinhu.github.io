@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2021.09 - Present*, Ph.D. in Artificial Intelligence, Renmin University of China, Beijing.
+- *2021.09 - 2025.06*, Ph.D. in Artificial Intelligence, Renmin University of China, Beijing.
 - *2018.09 - 2021.07*, M.S. in Communication and Information System, Shanghai Univeristy, Shanghai.
 - *2014.09 - 2018.07*, B.S. in Communication Engineering, Shanghai Univeristy, Shanghai.
 
