@@ -33,7 +33,7 @@ Toward the long vision of building a human-centered application ecosystem based 
 
 <!-- to study efficient method for deploying LLMs on edge devices and the communication challenges arising from large-scale agents. to guide human-centered model development  -->
 
-**招生信息**：拟8月底入职厦门大学信息学院，现招收**2026级推免硕士生**，**名额充足**，欢迎对（端侧）大模型理论与算法有兴趣的同学加入MAC。
+**招生信息**：拟8月底入职厦门大学信息学院，现招收**2026级推免硕士生**，**名额充足**，欢迎对（端侧）大模型理论与算法有兴趣的同学加入MAC，邮箱[xiaolinhu@ruc.edu.cn](mailto:xiaolinhu@ruc.edu.cn)。
 
 <!-- [Shanghai University President Scholarship](https://news.shu.edu.cn/info/1021/47992.htm) (The highest honor among the scholarships at Shanghai University). -->
 
