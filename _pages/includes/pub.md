@@ -4,12 +4,15 @@
 
 ## 🧑‍🎨 Large Language Models
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国计算机科学技术发展年度报告 2025</div><img src='images/llm-theory.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国计算机科学技术发展年度报告 2025</div><img src='images/llm-theory.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - 三大理论维度：聚焦于表达能力、优化理论、泛化理论，共同决定模型的性能上限与稳定性。
 - 理论指导实践：扩展法则、数据配比、参数高效微调和提示工程等，为预训练、微调与部署提供理论依据。
 - 涌现能力机理：情境学习（ICL）和思维链（CoT）等能力可从三大理论维度进行解释，为未来模型设计提供理论支撑。
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/icl-gen.png' alt="sym" width="100%"></div></div>
