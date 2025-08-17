@@ -19,7 +19,7 @@ I earned both my Bachelor's and Master's degrees in Communication and Informatio
 
 <!-- I am currently bridging personal LLMs and personal edge devices. With a long-term goal of contributing to a human-centered application ecosystem based on large models, I am particularly interested in: -->
 
-With a long-term vision of building a human-centered application ecosystem powered by foundation models, my research focuses on two key areas:
+With a long-term vision of building a personal Agents powered by Large Language Model, my research focuses on two key areas:
 
 <!-- 
 Toward the long vision of building a human-centered application ecosystem based on the fundation models, I am interested in the following topics:  -->
