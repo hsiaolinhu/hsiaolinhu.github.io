@@ -7,7 +7,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国计算机科学技术发展年度报告 2025</div><img src='images/llm-theory.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[大语言模型理论研究进展与趋势]() \\
+[大语言模型理论研究进展与趋势](https://github.com/hsiaolinhu/hsiaolinhu.github.io/blob/main/docs/llm-theory.pdf) \\
 刘勇, **胡啸林**, 唐鹏威, 龚子瑄
 
 - 三大理论维度：聚焦于表达能力、优化理论、泛化理论三大理论维度，其共同决定模型的性能与稳定性。
