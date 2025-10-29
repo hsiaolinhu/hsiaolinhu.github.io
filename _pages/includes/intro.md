@@ -1,6 +1,6 @@
 <!-- I work at [Sea AI Lab](https://sail.sea.com/) <img src='./images/logo-sea-header-desktop.webp' style='width: 6em;'> as a research scientist now, leading the audio team and doing some fundamental audio-related research. We are [hiring researchers and engineers](https://career.sea.com/position/427) to work on TTS, music generation, speech translation and audio-driven talking face generation. If interested, feel free to email me at [renyi@sea.com](mailto:renyi@sea.com). -->
 
-I am an Assistant Professor in the Department of Artificial Intelligence, School of Informatics, Xiamen University, and I am also affiliated with the Media Analytics and Computing Laboratory [(MAC Lab)](https://mac.xmu.edu.cn/). I completed my Ph.D. at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/) <img src='./images/logo-gsai-header-desktop.png' style='width: 8em;'> , Renmin University of China (RUC), where I was fortunate to be advised by Prof. [Yong Liu](https://gsai.ruc.edu.cn/liuyong). From November 2023 to April 2025, I was a Research Intern at Xiaomi AI Lab <img src='./images/mi-logo.png' style="width: 2.3em;">, focusing on Edge Large Language Models (LLMs) and LLM-powered Personalized Agents. I obtained my master’s degree under the supervision of Prof. [Nicholas E. Buris](https://www.linkedin.com/in/nick-buris-a974ba5/). In addition, I completed a research internship at the OPPO Research Institute <img src='./images/oppo-logo.png' style="width: 3.8em;"> from October 2020 to February 2021, where I was mentored by Xianyue Wu and Tehuang Liu.
+I am an Assistant Professor in the Department of Artificial Intelligence, School of Informatics, Xiamen University, and I am also affiliated with the Media Analytics and Computing Laboratory [(MAC Lab)](https://mac.xmu.edu.cn/). I completed my Ph.D. at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/) <img src='./images/logo-gsai-header-desktop.png' style='width: 8em;'> , Renmin University of China (RUC), where I was fortunate to be advised by Prof. [Yong Liu](https://gsai.ruc.edu.cn/liuyong). From November 2023 to April 2025, I was a Research Intern at Xiaomi AI Lab <img src='./images/mi-logo.png' style="width: 2.3em;">, focusing on LLM-powered Personalized Agents. I obtained my master’s degree under the supervision of Prof. [Nicholas E. Buris](https://www.linkedin.com/in/nick-buris-a974ba5/). In addition, I completed a research internship at the OPPO Research Institute <img src='./images/oppo-logo.png' style="width: 3.8em;"> from October 2020 to February 2021, where I was mentored by Xianyue Wu and Tehuang Liu.
 
 
 <!-- under the guidance of [Wei Liu](https://www.linkedin.com/in/wei-liu-40a97a39/?originalSubdomain=cn) and [Jian Luan](https://www.linkedin.com/in/jian-luan-58b5a428/?originalSubdomain=cn). 
@@ -23,17 +23,18 @@ With a long-term vision of building a personal Agents powered by Large Language 
 
 <!-- 
 Toward the long vision of building a human-centered application ecosystem based on the fundation models, I am interested in the following topics:  -->
-(1) Science-Driven LLMs Training: Investigating the fundamental principles behind LLM training and fine-tuning to enable more efficient and interpretable model development.
-<!-- (1) Science Driven Tuning: to pursue scientific principles behind optimization of LLMs and use them to guide human-centerd personal model development. --> 
 
-(2) Personal Edge LLMs Serving : Designing algorithms and techniques to deploy LLMs on edge devices, enabling scalable and privacy-preserving personalized AI services.
+(1) Personal Agent Systems: Designing algorithms and techniques to deploy Personal Agent on edge devices, enabling scalable and privacy-preserving personalized AI services.
+
+(2) LLMs Training Dynamics: Investigating the fundamental principles behind pre-, mid- and post-training to enable more efficient and interpretable model development.
+<!-- (1) Science Driven Tuning: to pursue scientific principles behind optimization of LLMs and use them to guide human-centerd personal model development. --> 
 
 <!-- Developing efficient algorithms for LLMs on edge devices to enhance personalized services. -->
 
 
 <!-- to study efficient method for deploying LLMs on edge devices and the communication challenges arising from large-scale agents. to guide human-centered model development  -->
 
-**招生信息**：拟8月底入职厦门大学信息学院MAC实验室，现招收**2026级推免硕士生**，**名额充足**，欢迎对大模型高效训练与微调有兴趣的同学联系[xiaolinhu@ruc.edu.cn](mailto:xiaolinhu@ruc.edu.cn)。
+**招生信息**：在厦门大学信息学院人工智能系招收**2027级推免硕士生**，**名额充足**，欢迎对个人Agent与大模型高效训练/微调有兴趣的同学联系[xiaolinhu@xmu.edu.cn](mailto:xiaolinhu@xmu.edu.cn)。
 
 <!-- [Shanghai University President Scholarship](https://news.shu.edu.cn/info/1021/47992.htm) (The highest honor among the scholarships at Shanghai University). -->
 
