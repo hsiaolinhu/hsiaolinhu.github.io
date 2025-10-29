@@ -90,7 +90,7 @@ Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, **Xiaolin Hu**, Yong Liu, Xiao Zh
 
 ## 🎙 Decentralized Training and Generalization
 
-<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/nc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/nc.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Chemical knowledge-informed framework for privacy-aware retrosynthesis learning](https://www.nature.com/articles/s41467-025-63036-7) \\
