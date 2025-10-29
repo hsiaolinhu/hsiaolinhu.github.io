@@ -2,9 +2,9 @@
 # 📝 Publications 
 
 
-## 🧑‍🎨 Large Language Models
+## 🧑‍🎨 Large Language Models 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国计算机科学技术发展年度报告 2025</div><img src='images/llm-theory.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国计算机科学技术发展年度报告 2025</div><img src='images/llm-theory.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [大语言模型理论研究进展与趋势](https://github.com/hsiaolinhu/hsiaolinhu.github.io/blob/main/docs/llm-theory.pdf) \\
@@ -15,7 +15,7 @@
 - 涌现能力机理：情境学习（ICL）和思维链（CoT）等能力可从三大理论维度进行解释，为未来模型设计提供理论支撑。
 
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/icl-gen.png' alt="sym" width="100%"></div></div>
@@ -88,7 +88,22 @@ Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, **Xiaolin Hu**, Yong Liu, Xiao Zh
 </div>
 </div>
 
-## 🎙 Federated Learning Generalization
+## 🎙 Decentralized Training and Generalization
+
+<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/nc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Chemical knowledge-informed framework for privacy-aware retrosynthesis learning](https://www.nature.com/articles/s41467-025-63036-7) \\
+Guikun Chen, Xu Zhang, **Xiaolin Hu**, Yong Liu, Yi Yang & Wenguan Wang
+
+<!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
+  
+- CKIF presents a privacy-preserving framework for decebtralized retrosynthesis learning across chemical organizations.
+- It employs chemical knowledge-informed aggregation, where molecular properties guide adaptive weighting of local models.
+- Experiments on multiple reaction datasets show **CKIF** achieves higher accuracy than strong baselines.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/zo-dsgd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
