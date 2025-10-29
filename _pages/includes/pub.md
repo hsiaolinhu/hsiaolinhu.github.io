@@ -90,20 +90,21 @@ Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, **Xiaolin Hu**, Yong Liu, Xiao Zh
 
 ## 🎙 Decentralized Training and Generalization
 
-<div class='paper-box'><div class='paper-box-image'><div></div><img src='images/nc.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC</div><img src='images/nc.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Chemical knowledge-informed framework for privacy-aware retrosynthesis learning](https://www.nature.com/articles/s41467-025-63036-7) \\
 Guikun Chen, Xu Zhang, **Xiaolin Hu**, Yong Liu, Yi Yang & Wenguan Wang
 
-<!-- [**Project**](https://github.com/xiaulinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
+<!-- [**Project**](https://github.com/xiaolinhu/pinn-pytorch) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong> -->
   
-- CKIF presents a privacy-preserving framework for decebtralized retrosynthesis learning across chemical organizations.
-- It employs chemical knowledge-informed aggregation, where molecular properties guide adaptive weighting of local models.
+- **CKIF** presents a privacy-preserving framework for decentralized retrosynthesis learning across chemical organizations.  
+- It employs chemical knowledge-informed aggregation, where molecular properties guide adaptive weighting of local models.  
 - Experiments on multiple reaction datasets show **CKIF** achieves higher accuracy than strong baselines.
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/zo-dsgd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
